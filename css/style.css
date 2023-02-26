@@ -1,0 +1,40 @@
+a
+{
+	color:pink;
+	text-decoration:none;
+	background-color:black;
+	text-align:center;
+}
+a:link
+{
+	color:blue;
+	text-decoration:none;
+	background-color:red;
+	border-radius:50px;
+	text-align:center;
+}
+a:visited
+{
+	color:red;
+	text-decoration:none;
+	background-color:gray;
+	border-radius:50px;
+	text-align:center;
+	
+}
+a:hover
+{
+	color:yellow;
+	text-decoration:underline;
+	background-color:aqva;
+	border-radius:100px;
+	text-align:center;
+}
+a:Active{
+	color:aqva;
+	text-decoration:underline;
+	background-color:red;
+	border-radius:100px;
+	text-align:center;
+	
+}
